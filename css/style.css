@@ -1,0 +1,21 @@
+.box{
+    position: relative;
+    height:300px;
+    width:1000px;
+    border: 1px solid;
+    margin:50px auto;
+}
+.box img{
+    height:100%;
+    width:100%;
+}
+#pre{
+    position: absolute;
+    top: 50%;
+    left: 0%;
+}
+#nxt{
+    position: absolute;
+    top: 50%;
+    right:0%;
+}
